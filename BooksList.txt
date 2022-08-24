@@ -1,0 +1,5 @@
+1,The Portrait of Dorian Gray,Literature,Oscar Wilde,No award,5,2021,260,The portrait of a man and man's life
+2,Pride and Prejudice,Literature,Jane Austen,RITA,4,2020,450,The love between two people
+3,Crime and Punishment,Literature,Fyodor Dostoevsky,HOLT,5,2020,500,The man who experience a profound mental unravelling 
+4,Nutuk,History,Mustafa Kemal Atatürk,No award,5,2019,1197,The foundation of the Republic of Turkey
+5,Educated,Biography,Tara Westover,No award,3,2020,363,An unforgettable memoir about a young girl
